@@ -30,7 +30,7 @@ This project is designed to perform an in-depth analysis of YouTube comments. It
 ### Usage
 Run the script using the following command:
 ```bash
-python youtube_comment_analysis.py
+python report5.py
 ```
 The script will perform the following analyses:
 - Sentiment analysis of comments
